@@ -1,4 +1,6 @@
-# react-native-image-crop-picker
+# react-native-image-crop-picker-temporary
+
+> Apple privacy manifest temporarily injected until core lib update
 
 [![Backers on Open Collective](https://opencollective.com/react-native-image-crop-picker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-image-crop-picker/sponsors/badge.svg)](#sponsors)
 
